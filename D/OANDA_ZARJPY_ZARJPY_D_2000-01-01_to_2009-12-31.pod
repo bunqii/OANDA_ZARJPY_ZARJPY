@@ -1,0 +1,65 @@
+{
+  "pod_version": "4.0",
+  "instrument": "ZAR_JPY",
+  "granularity": "D",
+  "chunk_start": "2000-01-01",
+  "chunk_end": "2009-12-31",
+  "parquet_file": "OANDA_ZARJPY_ZARJPY_D_2000-01-01_to_2009-12-31.parquet",
+  "data_file": "OANDA_ZARJPY_ZARJPY_D_2000-01-01_to_2009-12-31.parquet",
+  "row_count": 1871,
+  "first_candle": {
+    "time": 1085778000,
+    "Time": "2004-05-28T21:00:00.000000000Z",
+    "open": 16.965,
+    "high": 16.965,
+    "low": 16.965,
+    "close": 16.965,
+    "volume": 2
+  },
+  "last_candle": {
+    "time": 1262296800,
+    "Time": "2009-12-31T22:00:00.000000000Z",
+    "open": 12.56,
+    "high": 12.579,
+    "low": 12.557,
+    "close": 12.557,
+    "volume": 5
+  },
+  "csv_file": "OANDA_ZARJPY_ZARJPY_D_2000-01-01_to_2009-12-31.parquet",
+  "csv_row_count": 1871,
+  "csv_first_candle": {
+    "time": 1085778000,
+    "Time": "2004-05-28T21:00:00.000000000Z",
+    "open": 16.965,
+    "high": 16.965,
+    "low": 16.965,
+    "close": 16.965,
+    "volume": 2
+  },
+  "csv_last_candle": {
+    "time": 1262296800,
+    "Time": "2009-12-31T22:00:00.000000000Z",
+    "open": 12.56,
+    "high": 12.579,
+    "low": 12.557,
+    "close": 12.557,
+    "volume": 5
+  },
+  "status": "VERIFIED",
+  "verified_at": "2026-10-15T14:00:54.000000000Z",
+  "generated_at": "2026-10-15T14:00:54.000000000Z",
+  "download_request": {
+    "total_api_blocks_in_run": 2,
+    "chunk_api_blocks": 1,
+    "chunk_permanent_errors": 0,
+    "permanent_error_details": [],
+    "all_block_outcomes": [
+      {
+        "from": "2004-05-28T21:00:00Z",
+        "to": "2018-02-04T21:00:00Z",
+        "code": 200,
+        "msg": "OK"
+      }
+    ]
+  }
+}
