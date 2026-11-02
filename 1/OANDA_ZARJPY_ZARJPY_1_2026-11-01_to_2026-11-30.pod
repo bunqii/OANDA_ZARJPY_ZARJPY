@@ -1,0 +1,65 @@
+{
+  "pod_version": "4.0",
+  "instrument": "ZAR_JPY",
+  "granularity": "M1",
+  "chunk_start": "2026-11-01",
+  "chunk_end": "2026-11-30",
+  "parquet_file": "OANDA_ZARJPY_ZARJPY_1_2026-11-01_to_2026-11-30.parquet",
+  "data_file": "OANDA_ZARJPY_ZARJPY_1_2026-11-01_to_2026-11-30.parquet",
+  "row_count": 267,
+  "first_candle": {
+    "time": 1793570640,
+    "Time": "2026-11-01T22:04:00.000000000Z",
+    "open": 9.432,
+    "high": 9.432,
+    "low": 9.432,
+    "close": 9.432,
+    "volume": 1
+  },
+  "last_candle": {
+    "time": 1793598000,
+    "Time": "2026-11-02T05:40:00.000000000Z",
+    "open": 9.458,
+    "high": 9.458,
+    "low": 9.456,
+    "close": 9.458,
+    "volume": 9
+  },
+  "csv_file": "OANDA_ZARJPY_ZARJPY_1_2026-11-01_to_2026-11-30.parquet",
+  "csv_row_count": 267,
+  "csv_first_candle": {
+    "time": 1793570640,
+    "Time": "2026-11-01T22:04:00.000000000Z",
+    "open": 9.432,
+    "high": 9.432,
+    "low": 9.432,
+    "close": 9.432,
+    "volume": 1
+  },
+  "csv_last_candle": {
+    "time": 1793598000,
+    "Time": "2026-11-02T05:40:00.000000000Z",
+    "open": 9.458,
+    "high": 9.458,
+    "low": 9.456,
+    "close": 9.458,
+    "volume": 9
+  },
+  "status": "VERIFIED_PARTIAL",
+  "verified_at": "2026-11-02T05:41:10.000000000Z",
+  "generated_at": "2026-11-02T05:41:10.000000000Z",
+  "download_request": {
+    "total_api_blocks_in_run": 1,
+    "chunk_api_blocks": 1,
+    "chunk_permanent_errors": 0,
+    "permanent_error_details": [],
+    "all_block_outcomes": [
+      {
+        "from": "2026-11-01T00:00:00Z",
+        "to": "2026-11-02T05:41:00Z",
+        "code": 200,
+        "msg": "OK"
+      }
+    ]
+  }
+}
