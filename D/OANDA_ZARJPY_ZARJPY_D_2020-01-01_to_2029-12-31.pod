@@ -6,7 +6,7 @@
   "chunk_end": "2029-12-31",
   "parquet_file": "OANDA_ZARJPY_ZARJPY_D_2020-01-01_to_2029-12-31.parquet",
   "data_file": "OANDA_ZARJPY_ZARJPY_D_2020-01-01_to_2029-12-31.parquet",
-  "row_count": 1787,
+  "row_count": 1788,
   "first_candle": {
     "time": 1577916000,
     "Time": "2020-01-01T22:00:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 3222
   },
   "last_candle": {
-    "time": 1795039200,
-    "Time": "2026-11-18T22:00:00.000000000Z",
-    "open": 9.227,
-    "high": 9.318,
-    "low": 9.12,
-    "close": 9.122,
-    "volume": 14344
+    "time": 1795125600,
+    "Time": "2026-11-19T22:00:00.000000000Z",
+    "open": 9.128,
+    "high": 9.137,
+    "low": 9.008,
+    "close": 9.02,
+    "volume": 16759
   },
   "csv_file": "OANDA_ZARJPY_ZARJPY_D_2020-01-01_to_2029-12-31.parquet",
-  "csv_row_count": 1787,
+  "csv_row_count": 1788,
   "csv_first_candle": {
     "time": 1577916000,
     "Time": "2020-01-01T22:00:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 3222
   },
   "csv_last_candle": {
-    "time": 1795039200,
-    "Time": "2026-11-18T22:00:00.000000000Z",
-    "open": 9.227,
-    "high": 9.318,
-    "low": 9.12,
-    "close": 9.122,
-    "volume": 14344
+    "time": 1795125600,
+    "Time": "2026-11-19T22:00:00.000000000Z",
+    "open": 9.128,
+    "high": 9.137,
+    "low": 9.008,
+    "close": 9.02,
+    "volume": 16759
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-11-20T06:55:13.000000000Z",
-  "generated_at": "2026-11-20T06:55:13.000000000Z",
+  "verified_at": "2026-11-21T07:30:08.000000000Z",
+  "generated_at": "2026-11-21T07:30:08.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-11-16T22:00:00Z",
-        "to": "2026-11-19T22:00:00Z",
+        "from": "2026-11-17T22:00:00Z",
+        "to": "2026-11-20T22:00:00Z",
         "code": 200,
         "msg": "OK"
       }
